@@ -9,3 +9,6 @@ https://www.exploit-db.com/exploits/39161
 
 Impacket
 https://github.com/SecureAuthCorp/impacket.git
+
+Kerbute
+https://github.com/ropnop/kerbrute/releases
