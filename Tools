@@ -6,3 +6,6 @@ https://github.com/andrew-d/static-binaries/blob/master/binaries/windows/x86/nca
 
 Rejetto HTTP File Server (HFS) 2.3.x - Remote Command Execution
 https://www.exploit-db.com/exploits/39161
+
+Impacket
+https://github.com/SecureAuthCorp/impacket.git
