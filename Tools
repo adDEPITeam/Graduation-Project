@@ -1,0 +1,8 @@
+WinPEAS
+https://github.com/peass-ng/PEASS-ng/releases/download/20220717/winPEASx64.exe
+
+ncat.exe
+https://github.com/andrew-d/static-binaries/blob/master/binaries/windows/x86/ncat.exe
+
+Rejetto HTTP File Server (HFS) 2.3.x - Remote Command Execution
+https://www.exploit-db.com/exploits/39161
